@@ -1,3 +1,13 @@
+---
+layout: post
+title: "扩散模型"
+date:   2024-7-11
+tags: [tag1, tag2]
+comments: true
+author: hhuangsj
+---
+
+
 参考：
 [https://segmentfault.com/a/1190000043744225#item-3-5](https://segmentfault.com/a/1190000043744225#item-3-5)
 [https://lilianweng.github.io/posts/2021-07-11-diffusion-models/](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
